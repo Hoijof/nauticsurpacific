@@ -4,10 +4,12 @@ import ReactDOM from 'react-dom';
 import './fonts.css';
 import './index.css';
 
+import reportWebVitals from './reportWebVitals';
+
 import Skeleton from './src/components/skeleton';
 import Background from './src/components/background';
 import Logo from './src/components/logo';
-import reportWebVitals from './reportWebVitals';
+import ImageGallery from './src/components/image-gallery';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -15,6 +17,8 @@ ReactDOM.render(
       <Background>
         <Logo />
       </Background>
+
+      <ImageGallery />
 
     </Skeleton>
   </React.StrictMode>,

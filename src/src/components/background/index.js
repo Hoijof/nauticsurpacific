@@ -7,7 +7,7 @@ export default function Background({ children }) {
       <video className="Video" autoPlay muted loop id="myVideo">
         <source src={backgroundVideo} type="video/mp4" />
       </video>
-
+      <div className="Gradient"></div>
       {children}
     </div>
   )

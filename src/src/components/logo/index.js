@@ -1,5 +1,5 @@
 import './index.scss';
-import nsp from '../../../resources/nsp.gif';
+import nsp from '../../../resources/nsp.svg';
 
 export default function Logo() {
   return (
