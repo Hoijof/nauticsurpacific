@@ -1,5 +1,3 @@
-import react from 'react';
-
 import LinkElement from '../link-element';
 
 import './index.scss';

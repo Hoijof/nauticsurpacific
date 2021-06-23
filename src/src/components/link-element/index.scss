@@ -1,9 +1,16 @@
 .LinkElement {
-    align-content: center;
-    justify-content: space-around;
-    flex-direction: column;
-    align-items: center;
-    
+
+    .Container {
+      display: flex;
+      align-content: center;
+      justify-content: space-around;
+      flex-direction: column;
+      align-items: center;
+
+      border: 2.5px solid white;
+      width:100%;
+    }
+
   .Link {
     font-size: 3em;
     margin: 0;
