@@ -10,7 +10,7 @@ import Skeleton from './components/skeleton';
 import Background from './components/background';
 import Logo from './components/logo';
 import ImageGallery from './components/image-gallery';
-import Map from './components/map';
+import MapSection from './components/map-section';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -18,9 +18,9 @@ ReactDOM.render(
       <Background>
         <Logo />
       </Background>
+      <MapSection />
 
       <ImageGallery />
-      <Map />
 
     </Skeleton>
   </React.StrictMode>,

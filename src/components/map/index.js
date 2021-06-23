@@ -1,6 +1,6 @@
 import './index.scss';
 
-import map from '../../resources/img/europe-map.svg';
+import map from '../../resources/img/europe-mapcity.svg';
 
 export default function Map() {
   return (
