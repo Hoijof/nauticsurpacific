@@ -1,5 +1,5 @@
 import './index.scss';
-import backgroundVideo from '../../../resources/background.mp4';
+import backgroundVideo from '../../resources/background.mp4';
 
 export default function Background({ children }) {
   return (

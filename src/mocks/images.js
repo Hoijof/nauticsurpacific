@@ -1,11 +1,11 @@
-import marioTrabajo from '../../resources/img/mario-trabajo.jpg';
-import arielFingiendo from '../../resources/img/ariel-fingiendo-que-trabaja.jpg';
-import barcoNoche from '../../resources/img/barco-de-noche.jpg';
-import barco from '../../resources/img/barco.jpg';
-import motor from '../../resources/img/motor.jpg';
-import plano from '../../resources/img/plano.jpg';
-import mauricioBarco from '../../resources/img/mauricio-barco.jpg';
-import senyales from '../../resources/img/senyales.jpg';
+import marioTrabajo from '../resources/img/mario-trabajo.jpg';
+import arielFingiendo from '../resources/img/ariel-fingiendo-que-trabaja.jpg';
+import barcoNoche from '../resources/img/barco-de-noche.jpg';
+import barco from '../resources/img/barco.jpg';
+import motor from '../resources/img/motor.jpg';
+import plano from '../resources/img/plano.jpg';
+import mauricioBarco from '../resources/img/mauricio-barco.jpg';
+import senyales from '../resources/img/senyales.jpg';
 
 const imagesData = [
   {

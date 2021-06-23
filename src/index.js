@@ -6,10 +6,11 @@ import './index.css';
 
 import reportWebVitals from './reportWebVitals';
 
-import Skeleton from './src/components/skeleton';
-import Background from './src/components/background';
-import Logo from './src/components/logo';
-import ImageGallery from './src/components/image-gallery';
+import Skeleton from './components/skeleton';
+import Background from './components/background';
+import Logo from './components/logo';
+import ImageGallery from './components/image-gallery';
+import Map from './components/map';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -19,6 +20,7 @@ ReactDOM.render(
       </Background>
 
       <ImageGallery />
+      <Map />
 
     </Skeleton>
   </React.StrictMode>,
