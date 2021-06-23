@@ -15,6 +15,7 @@ ReactDOM.render(
       <Background>
         <Logo />
       </Background>
+
     </Skeleton>
   </React.StrictMode>,
   document.getElementById('root')
