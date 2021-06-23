@@ -1,3 +1,5 @@
+git stash
+git pull origin master
 npm run build
 
 rm -rf /var/www/nauticsurpacific.com
