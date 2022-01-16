@@ -10,40 +10,40 @@ import senyales from '../resources/img/senyales.jpg';
 const imagesData = [
   {
     name: 'Mario Trabajo',
-    url: marioTrabajo
+    url: marioTrabajo,
   },
   {
     name: 'Ariel fingiendo que trabaja',
-    url: arielFingiendo
+    url: arielFingiendo,
   },
   {
     name: 'Barco de noche',
-    url: barcoNoche
+    url: barcoNoche,
   },
   {
     name: 'Barco',
-    url: barco
+    url: barco,
   },
   {
     isLink: true,
-    url: ''
+    url: '',
   },
   {
     name: 'Motor',
-    url: motor
+    url: motor,
   },
   {
     name: 'Plano',
-    url: plano
+    url: plano,
   },
   {
     name: 'Mauricio Barco',
-    url: mauricioBarco
+    url: mauricioBarco,
   },
   {
     name: 'Senyales',
-    url: senyales
-  }
+    url: senyales,
+  },
 ];
 
 export default imagesData;
